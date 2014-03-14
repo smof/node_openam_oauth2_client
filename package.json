@@ -1,0 +1,9 @@
+{
+    "name": "openam-oauth2-client",
+    "description": "OpenAM OAuth2 Client",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "express": "3.x"
+    }
+}
